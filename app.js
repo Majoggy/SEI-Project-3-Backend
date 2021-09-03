@@ -2,9 +2,9 @@ import express from 'express'
 import cors from 'cors' //* <-- This is new
 
 // import { connectDb } from './db/helpers.js'
-import logger from './middleware/logger.js'
-import router from './views/router.js'
-import errorHandler from './middleware/errorHandler.js'
+import logger from './lib/logger.js'
+import router from './config/router.js'
+import errorHandler from './lib/errorHandler.js'
 
 const app = express()
 
