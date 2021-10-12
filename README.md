@@ -8,7 +8,7 @@ AirStudio was my third project for General Assembly’s Software Engineering Cou
 
 The concept for our project was an Airbnb clone with a twist - a place where users could peruse, book, review and upload recording studios.
 
-It is deployed using Heroku/Netlify and is available here.
+It is deployed using Heroku/Netlify and is available [here](https://airstudio-se57.netlify.app/).
 
 
 ## Brief
